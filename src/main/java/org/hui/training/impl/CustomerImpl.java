@@ -10,6 +10,7 @@ import java.util.List;
 public class CustomerImpl {
 
     private static List<Customer> customers = new ArrayList<>();
+
     public List<Customer> getAllCustomer() {
         return customers;
     }
