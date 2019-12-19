@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a666304-0021-48cf-8f22-e792d6dba0ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VCIHttGM1rVQTznTop6GKjIccg" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a666304-0021-48cf-8f22-e792d6dba0ad" name="Default Changelist" comment="" />
+      <created>1576750566278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576750566278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1576761833063">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser/0.23.1440.828/448.-1057.1920.1057@0.23.1440.828" timestamp="1576761833063" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom" timestamp="1576752673788">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.828/448.-1057.1920.1057@0.23.1440.828" timestamp="1576752673788" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center" timestamp="1576752673787">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.828/448.-1057.1920.1057@0.23.1440.828" timestamp="1576752673787" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left" timestamp="1576752673786">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.828/448.-1057.1920.1057@0.23.1440.828" timestamp="1576752673786" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right" timestamp="1576752673787">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.828/448.-1057.1920.1057@0.23.1440.828" timestamp="1576752673787" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1576750708756">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.828/448.-1057.1920.1057@0.23.1440.828" timestamp="1576750708756" />
+  </component>
+</project>
