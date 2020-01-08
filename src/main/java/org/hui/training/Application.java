@@ -28,6 +28,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.ImportResource;
+import org.apache.camel.opentracing.starter.CamelOpenTracing;
 
 /**
  * A spring-boot application that includes a Camel route builder to setup the Camel routes
