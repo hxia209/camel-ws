@@ -32,6 +32,7 @@ import org.springframework.context.annotation.ImportResource;
 /**
  * A spring-boot application that includes a Camel route builder to setup the Camel routes
  */
+@CamelOpenTracing
 @SpringBootApplication
 @Configuration
 @ComponentScan()
