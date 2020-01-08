@@ -77,6 +77,7 @@ public class Application extends RouteBuilder {
         rest()
                 .get("/hello")
                 .route()
+                .log("tracing stuff")
                 .transform(constant("Hello World"));
     }
 }
